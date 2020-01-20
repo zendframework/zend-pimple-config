@@ -2,7 +2,7 @@
 
 > ## Repository abandoned 2019-12-31
 >
-> This repository has moved to laminas/laminas-pimple-config.
+> This repository has moved to [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config).
 
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-pimple-config.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-pimple-config)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-pimple-config/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-pimple-config?branch=master)
